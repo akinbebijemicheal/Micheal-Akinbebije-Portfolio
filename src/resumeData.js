@@ -95,7 +95,7 @@ let resumeData = {
         "Achievements":"Tutored over 80 students on web development , built and deployed over a dozen softwares for the company"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Below are my skills on Software Development and Data Science & Analysis",
     "skills":[
       
       {
