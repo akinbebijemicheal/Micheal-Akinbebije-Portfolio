@@ -19,7 +19,7 @@ export default class ContactUs extends Component {
                 </a>
               </h4>
               <h4>
-                <a href={resumeData.socialLinks[4].url} target="_blank">
+                <a href={resumeData.socialLinks[3].url} target="_blank">
                   <i className="fa fa-envelope" /> Click here to mail me at michealakinbebije@gmail.com
                 </a>
               </h4>
