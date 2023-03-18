@@ -22,11 +22,6 @@ let resumeData = {
           "className":"fa fa-twitter"
         },
         {
-          "name":"phone",
-          "url":"https://mobile.twitter.com/AkinbebijeN",
-          "className":"fa fa-phone"
-        },
-        {
           "name":"email",
           "url":"https://mailto:michealakinbebije@gmail.com",
           "className":"fa fa-envelope"
