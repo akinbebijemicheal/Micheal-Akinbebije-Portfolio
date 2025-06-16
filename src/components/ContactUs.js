@@ -29,7 +29,7 @@ export default class ContactUs extends Component {
                 </a>
               </h4>
               <h4>
-                  <i className="fa fa-phone" /> Contact me via phone on +234 901 936 8526
+                  <i className="fa fa-phone" /> Contact me via phone on +234 803 421 6853, +234 802 648 0554, and +234 901 936 8526
               </h4>
             </div>
           </aside>
