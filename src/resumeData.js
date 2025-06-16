@@ -36,8 +36,8 @@ let resumeData = {
     {
       UniversityName: "Federal University of Technology Akure",
       specialization: "Agricultural Extension and Communication Technology",
-      MonthOfPassing: "",
-      YearOfPassing: "Still here",
+      MonthOfPassing: "Oct",
+      YearOfPassing: "2024",
       Achievements: "Currently on a Second Class Upper",
     },
     {
